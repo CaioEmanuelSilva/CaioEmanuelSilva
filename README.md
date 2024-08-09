@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil GitHub! Aqui você encontrará uma coleção dos meus pr
 - **Ferramentas:** Git, VSCode
 
 ## 📚 Projetos Destacados
-### [Projeto 1: Spider Man Multiverses DIO]((https://github.com/CaioEmanuelSilva/spider-man-multiverses-dio))
+### [Projeto 1: Spider Man Multiverses DIO](https://github.com/CaioEmanuelSilva/spider-man-multiverses-dio)
 Aprenda a trabalhar com os principais efeitos de CSS e explore o máximo das animações para construir um Layout 
 Rico baseado no multiverso do spiderman, vá além aprendendo mais sobre posicionamento de elementos em tela, 
 construção baseada em sobreposição de blocos e domine a arte de compor itens em tela.
