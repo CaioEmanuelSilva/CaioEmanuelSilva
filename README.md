@@ -1,25 +1,39 @@
-## Bem-vindo(a) ao perfil Caio Emanuel Silva 😁
+# Olá! Eu sou Caio Emanuel Silva 👋
 
- <div>
-   <a href="https://github.com/CaioEmanuelSilva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioEmanuelSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEmanuelSilva&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/@Skyatteck00702" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/scaioemanuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/Skyatteck#7224" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caio.emnl.silva@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-emanuel-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições no mundo do desenvolvimento de software.
+
+## 🛠 Tecnologias e Ferramentas
+- **Linguagens:** HTML, CSS, JavaScript
+- **Frameworks:** React
+- **Ferramentas:** Git, VSCode
+
+## 📚 Projetos Destacados
+### [Projeto 1: Spider Man Multiverses DIO]((https://github.com/CaioEmanuelSilva/spider-man-multiverses-dio))
+Aprenda a trabalhar com os principais efeitos de CSS e explore o máximo das animações para construir um Layout 
+Rico baseado no multiverso do spiderman, vá além aprendendo mais sobre posicionamento de elementos em tela, 
+construção baseada em sobreposição de blocos e domine a arte de compor itens em tela.
+
+### [Projeto 2: Semana Frontend Mundo Invertido](https://github.com/CaioEmanuelSilva/semana-frontend-mundo-invertido)
+Inicie uma aventura imersiva no mundo do Front-end com HTML e CSS. Para isso, criaremos uma landing page com a 
+temática da série Stranger Things, a qual contará com a implementação de um theme switcher (light e dark) para 
+explorarmos os mistérios do mundo invertido.
+
+## 🎓 Formação
+- **FATEC São Bernardo do Campo Adib Moisés Dib:** Tecnólogo em Informática para Negócios (2026)
+- **Cursos:** Iniciante em Programação T7 - ONE; Desenvolvimento Pessoal T7 - ONE; Transforma Tec 2024;
+
+## 🌐 Conecte-se Comigo
+- **LinkedIn:** [Caio Emanuel Silva](https://www.linkedin.com/in/caio-emanuel-silva)
+- **E-mail:** [caio.emnl.silva@gmail.com](mailto:caio.emnl.silva@gmail.com)
+
+## ✨ Estatísticas GitHub
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioEmanuelSilva&show_icons=true&theme=radical)
+
+## 🌱 Sobre Mim
+- Apaixonado por tecnologia e inovação
+- Sempre em busca de novos desafios e aprendizados
+- Interessado em contribuir com projetos open-source e colaborar com a comunidade
+
+---
+
+Obrigado por visitar o meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou quiser colaborar em algum projeto.
